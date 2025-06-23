@@ -1,9 +1,9 @@
 # Task 1 – Local Network Port Scan
 
-## 🎯 Objective
+##  Objective
 To scan the local network and identify open ports using Nmap.
 
-## 🛠 Tools Used
+##  Tools Used
 - Nmap
 - Kali Linux
 
